@@ -1,0 +1,123 @@
+.first-page {
+    background-color: #252525;
+    height: 650px;
+}
+
+.f-p-img {
+    width: 300px;
+    height: 400px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.first-page-left {
+    margin-top: 150px;
+    margin-left: 60px;
+}
+
+.main-h {
+    color: #fff;
+    font-size: 50px;
+}
+
+.colec {
+    color: #ffffff7a;
+}
+
+.first-page-btn {
+    height: 50px;
+    width: 130px;
+    background: none;
+    border: 3px solid #fff;
+    color: #fff;
+    border-radius: 40px;
+}
+
+.first-page-btn:hover {
+    background-color: #fff;
+    color: black;
+}
+.small {
+    background-color: #cacacadd;
+    height: 100px;
+
+}
+
+
+.small1 {
+    background-color: #cacacadd;
+    height: 70px;
+
+}
+
+.line {
+    width: 100%;
+    height: 70px;
+    border-left: 1px solid #000;
+    /* You can adjust the color as needed */
+    margin-top: 20px;
+    padding: 0;
+}
+
+.sm-sec {
+    display: flex;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+
+.sm-sec2 {
+    display: flex;
+    padding-top: 30px;
+    /* padding-left: 20px; */
+}
+
+.logo-im {
+    width: 40px;
+    height: 40px;
+}
+
+.products {
+
+    
+    margin-left: 80px;
+    
+
+}
+
+.left-new {
+    margin-top: 80px;
+
+}
+
+.p-image {
+    width: 200px;
+    height: 250px;
+    background-color: #3b34344f;
+}
+
+.p-area {
+    margin-top: 90px;
+}
+
+.last-page {
+    height: 500px;
+    background-color: #ffffff;
+    
+}
+
+.last-page-heading {
+    color: #000000;
+    font-family: hello;
+    margin-top: 100px;
+
+}
+
+.last-page-text {
+    color: #000000;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+/* inserting page of jacket site */
+
+
